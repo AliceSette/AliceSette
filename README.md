@@ -1,16 +1,20 @@
-
-<h1>Olá, sou Alice</h1>
+<img align="center" alt="Rafa-Gatinhogif" height="350" width="1000" src="https://i.pinimg.com/736x/b5/80/d3/b580d326b6d3f25bf0b5370ced32a2e3.jpg">
+<h1>Oie, sou Alice Sette :)</h1>
+Sou estudante de Tecnico de Informática e 
+Deixo aqui disponível meus projetos pessoais e acadêmicos, caso tenha interesse entre em contato!
 
 
  <div style="display: inline_block"><br>
+   
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-   <img align="center" alt="Rafa-Cmaismais" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-  
+  <img align="center" alt="Rafa-Cmaismais" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
 </div><br>
+
+<img align="center" alt="Rafa-Gatinhogif" src="https://i.pinimg.com/originals/c2/10/76/c210768f83b1a5ac3c4ee1344c52fa4b.gif">
 
 <div> 
   <a href="https://www.instagram.com/licekssk/?utm_source=qr&igsh=dDdqNGhreWQ1OTh0#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
