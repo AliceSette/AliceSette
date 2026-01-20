@@ -1,5 +1,5 @@
 
-<h1>Oie, sou Alice Sette :)</h1>
+<h1>Oie, sou Alice Sette</h1>
 Sou estudante de Tecnico de Informática e deixo aqui disponível meus projetos pessoais e acadêmicos, caso tenha interesse entre em contato!
 
 
