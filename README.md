@@ -1,6 +1,7 @@
 
 <h1>Oie, sou Alice Sette</h1>
 Sou estudante de Tecnico de Informática e deixo aqui disponível meus projetos pessoais e acadêmicos, caso tenha interesse entre em contato!
+<img align="center" alt="Rafa-Gatinhogif" src="https://i.pinimg.com/originals/c2/10/76/c210768f83b1a5ac3c4ee1344c52fa4b.gif">
 
 
  <div style="display: inline_block"><br>
@@ -10,7 +11,9 @@ Sou estudante de Tecnico de Informática e deixo aqui disponível meus projetos 
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-Cmaismais" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">   <img align="center" alt="Rafa-Gatinhogif" src="https://i.pinimg.com/originals/c2/10/76/c210768f83b1a5ac3c4ee1344c52fa4b.gif">
+  <img align="center" alt="Rafa-Cmaismais" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+   <img align="center" alt="Rafa-Cmaismais" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+    <img align="center" alt="Rafa-Cmaismais" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
 </div><br>
 
 
